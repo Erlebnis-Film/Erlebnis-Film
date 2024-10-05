@@ -5,4 +5,4 @@ category: FAQ
 title: Für welche Teams ist Erlebnis Film geeignet?
 description: |
 ---
-  Sowohl für ....
+  Erlebnis Film ermöglicht es, neuen Teams die sich noch nicht allzu gut können in einem kreativen Umfeld zusammen zu Arbeiten. Aber auch für Teams die schon jahrelang eingespielt sind, ist dieses Erlebnis aufgrund des großen kreativen Freiraums perfekt geeignet.
