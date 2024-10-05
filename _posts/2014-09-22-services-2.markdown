@@ -1,6 +1,6 @@
 ---
 layout: default
-img: team.jpg
+img: team.jpeg
 category: FAQ
 title: Für welche Teams ist Erlebnis Film geeignet?
 description: |
